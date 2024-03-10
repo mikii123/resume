@@ -42,7 +42,7 @@ resourceLinks:
   - title: "My Resume"
     url: "files/en/mikolaj-bystrzynski.pdf"
 
-showreel: "/videos/sample.mp4"
+showreel: "files/video/showreel.mp4"
     
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
