@@ -1,0 +1,53 @@
+﻿.card.lvl0 {
+//  background: #ffedc7 !important;
+  .card-head {
+    background: #ffedc7 !important;
+  }
+}
+
+.card.lvl1 {
+//  background: #dec5fd !important;
+
+  .card-head {
+    background: #dec5fd !important;
+  }
+}
+
+.card.lvl2 {
+//  background: #c5f3fd !important;
+
+  .card-head {
+    background: #c7fdc5 !important;
+  }
+}
+
+html[data-theme='dark'] {
+
+  img.invert {
+      -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+      filter: invert(100%);
+  }
+  
+  .card.lvl0 {
+    //  background: #ffedc7 !important;
+    .card-head {
+      background: #3b331e !important;
+    }
+  }
+
+  .card.lvl1 {
+    //  background: #dec5fd !important;
+
+    .card-head {
+      background: #2D1E3B !important;
+    }
+  }
+
+  .card.lvl2 {
+    //  background: #c5f3fd !important;
+
+    .card-head {
+      background: #203b1e !important;
+    }
+  }
+}
