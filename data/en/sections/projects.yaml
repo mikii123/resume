@@ -96,5 +96,5 @@ projects:
   role: Owner
   timeline: "2024 - Present"
   repo: https://github.com/mikii123/resume
-  summary: This webpage. Made in Hugo.
+  summary: This webpage. Made in Hugo. Hosted on [Cloudflare Pages](https://pages.cloudflare.com)
   tags: [ "Hobby", "Hugo", "HTML", "CSS" ]

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Edukacja
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Engineering Degree
+- name: Inżynier
   icon: fa-graduation-cap
   timeframe: 2012-2016
   institution:
@@ -19,19 +19,17 @@ degrees:
     logo: /images/sections/education/cdv.png
     invertLogo: 1
   custonSections: #(optional)
-    - name: Specialization
+    - name: Specjalizacja
       content: Game Design
-    - name: Thesis
+    - name: Praca Inżynierska
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
+    - name: Opiekun
       content: Fusce eu augue ut odio porttitor pulvinar.
     
-- name: Secondary Education
+- name: Wykształcenie Średnie
   icon: fa-school
   timeframe: 2005-2010
   institution:
     name: Liceum Ogólnokształcące nr 12 im. Marii Skłodowskiej – Curie
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    url: "https://lo12.edu.pl"
+    logo: /images/sections/education/lo12.png

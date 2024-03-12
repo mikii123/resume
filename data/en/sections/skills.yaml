@@ -54,9 +54,9 @@ skills:
   summary: "Deployed and performed a migration of a commercial backend platform written in JS on Gamesparks. Commercial experience in Braincloud."
   level: "2"
   
-- name: Jira
+- name: Scrum
   logo: /images/sections/skills/jira.png
-  summary: "Worked in projects managed by Jira ticketing system."
+  summary: "Worked in projects managed by Jira ticketing system. Scrum, kanban, waterfall, as well as custom versions of those."
   url: "https://www.atlassian.com/software/jira"
   
 - name: C++

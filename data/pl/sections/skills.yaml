@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Umiejętności
   id: skills
   enable: true
   weight: 2
@@ -13,52 +13,52 @@ section:
 skills:
 - name: Unity Engine
   logo: /images/sections/skills/unity.svg
-  summary: "Capable of developing intricate mechanics and game systems. Commercial experience in multiple successful projects."
+  summary: "Umiejętność tworzenia skomplikowanych systemów w grach. Doświadczenie w&nbsp;licznych projektach komercyjnych."
   url: "https://unity.com"
   level: "0"
   invertLogo: 1
   
 - name: .NET
   logo: /images/sections/skills/dotnet.png
-  summary: "Familiar with newest .NET Framework with experience in Unity, ASP and Windows Forms."
+  summary: "Znajomość najnowszej wersji .NET Framework z&nbsp;doświadczeniem w&nbsp;implementacji w Unity, ASP oraz Windows Forms."
   url: "https://dotnet.microsoft.com/en-us/"
   level: "0"
 
 - name: C#
   logo: /images/sections/skills/csharp.png
-  summary: "Expert proficiency in using C# in commercial and hobby projects."
+  summary: "Biegły w pisaniu w C#. Doświadczenie w&nbsp;projektach  komercyjnych."
   url: "https://dotnet.microsoft.com/en-us/languages/csharp"
   level: "0"
 
 - name: Unity Editor
   logo: /images/sections/skills/unity.svg
-  summary: "Supported multiple game systems with extendable editor windows and developer UX-oriented functionalities."
+  summary: "Wsparcie licznych systemów w projekcie poprzez dedykowane edytory."
   url: "https://unity.com"
   level: "1"
   invertLogo: 1
   
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Have used Github, Gitlab, Azure Devops and Bitbucket."
+  summary: "Doświadczenie w pracy z gitem w takich serwisach jak: Github, Gitlab, Azure Devops i Bitbucket."
   url: "https://git-scm.com/"
   level: "1"
 
 - name: Fmod
   logo: /images/sections/skills/fmod.png
-  summary: "Experience in event design in Fmod Studio and Fmod API usage in Unity."
+  summary: "Doświadczenie w układaniu eventów w&nbsp;Fmod Studio a także używaniu Fmod API w projekcie Unity."
   url: "https://www.fmod.com"
   level: "2"
 
 - name: Javascript
   logo: /images/sections/skills/js.png
-  summary: "Deployed and performed a migration of a commercial backend platform written in JS on Gamesparks. Commercial experience in Braincloud."
+  summary: "Przeprowadziłem deployment oraz migrację komercyjnej platformy backendowej w&nbsp;Gamesparks napisanej w&nbsp;JS. Posiadam komercyjne doświadczenie z&nbsp;platformą Braincloud."
   level: "2"
   
-- name: Jira
+- name: Scrum
   logo: /images/sections/skills/jira.png
-  summary: "Worked in projects managed by Jira ticketing system."
+  summary: "Pracowałem w projektach zarządzanych przez Jirę. Scrum, kanban, waterfall, a&nbsp;także własne ich iteracje."
   url: "https://www.atlassian.com/software/jira"
   
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Little commercial experience."
+  summary: "Podstawy C/C++. Małe doświadczenie w&nbsp;projektach komercyjnych."

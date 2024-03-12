@@ -31,7 +31,5 @@ degrees:
   timeframe: 2005-2010
   institution:
     name: Liceum Ogólnokształcące nr 12 im. Marii Skłodowskiej – Curie
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    url: "https://lo12.edu.pl"
+    logo: /images/sections/education/lo12.png

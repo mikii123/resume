@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experience
+  name: Doświadczenie
   id: experiences
   enable: true
   weight: 3
@@ -13,46 +13,46 @@ experiences:
 - company:
     name: Product Madness
     url: "https://www.productmadness.com"
-    location: Remote / Gdańsk
+    location: Zdalnie / Gdańsk
     logo: /images/sections/experiences/pm-logo.png
     # company overview
     #overview: Product Madness is a leading social casino operator.
   positions:
   - designation: Unity Developer
-    start: Dec 2021
+    start: Grudzień 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Jan 2024
+    end: Styczeń 2024
     responsibilities:
-    - Developing a mobile project with a team of product owners, designers, developers and artists.
-    - Ensuring highest quality of code by reviewing pull requests, writing unit tests and submitting builds to QA.
+    - Rozwijanie projektu przy współpracy zespołu product ownerów, designerów, deweloperów i artystów.
+    - Zapewnienie najwyższej jakości kodu poprzez sprawdzanie pull requestów, implementację unit testów i współpracę z QA.
 
 - company:
     name: Playsoft
     url: "https://www.linkedin.com/company/playsoft/"
-    location: Remote / Gdańsk
+    location: Zdalnie / Gdańsk
     logo: /images/sections/experiences/playsoft.png
-    overview: Playsoft was a mobile game developer. Acquired by Product Madness in 2021.
+    overview: Playsoft był developerem gier mobilnych. Kupiony przez Product Madness w 2021r.
   positions:
   - designation: Unity Developer
-    start: Sep 2021
-    end: Dec 2021
+    start: Wrzesień 2021
+    end: Grudzień 2021
 
 - company:
     name: BeCreo Technologies
     url: "https://becreo.com"
-    location: Remote / Poznań
+    location: Zdalnie / Poznań
     logo: /images/sections/experiences/becreo.png
     #overview: BeCREO Technologies Limited is a Polish IT company creating and producing innovative educational materials for schools, kindergartens, and home users.
   positions:
   - designation: Gameplay Developer
-    start: Mar 2020
-    end: Aug 2021
+    start: Marzec 2020
+    end: Sierpień 2021
     responsibilities:
-    - Implemented In-App Purchases for Scottie Go! Labyrinth Mobile.
-    - Implemented On-screen coding and Backend for Scottie Go! Dojo.
-    - Project Maintenance.
-    - Build Server Administration.
-    - Release Management for Google Play, Apple App Store and Windows.
+    - Implementacja sakupów w aplikacji Scottie Go! Labyrinth Mobile.
+    - Implementacja Kodowania na Ekranie i Backendu do Scottie Go! Dojo.
+    - Utrzymanie Projektów.
+    - Administracja Build Servera.
+    - Zarządzanie release'ami w Google Play, Apple App Store i na platformy Windows.
       
 - company:
     name: Marching Bits
@@ -60,10 +60,10 @@ experiences:
     #overview: A small company developing an RTS game.
   positions:
     - designation: Game Developer
-      start: Jul 2019 
-      end: Nov 2019
+      start: Lipiec 2019 
+      end: Listopad 2019
       responsibilities:
-        - Pathfinding for an Unannounced RTS Project.
+        - Pathfinding w nieopublikowanym projekcie RTS.
           
 - company:
     name: Gamedust
@@ -73,25 +73,25 @@ experiences:
     #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
   positions:
     - designation: Game Developer
-      start: Oct 2017
-      end: Apr 2019
+      start: Październik 2017
+      end: Kwiecień 2019
       responsibilities:
-        - VR gameplay mechanics implementation
-        - Pathfinding system for Spuds Unearthed.
-        - Audio implementation in FMOD.
-        - Custom voiceover & dialogue system for Overflight Singleplayer.
-        - Network systems for Overflight Multiplayer.
+        - Implementacja machanik VR.
+        - System pathfindingu do Spuds Unearthed.
+        - Implementacja audio w FMODzie.
+        - Autorski system podkładów głosowych i dialogów do kampanii Overflight Singleplayer.
+        - Networking w Overflight Multiplayer.
      
 - company:
     name: Setapp
     url: "https://setapp.com"
     location: Poznań
     logo: /images/sections/experiences/setapp-logo.png
-    overview: Short temporary employment. Moved to Gamedust sister company.
+    overview: Zatrudnienie tymczasowe. Zmiana zaspołu na Gamedust.
   positions:
     - designation: Game Developer
-      start: Sep 2017
-      end: Oct 2017
+      start: Wrzesień 2017
+      end: Październik 2017
           
 - company:
     name: Di Support PL
@@ -100,8 +100,8 @@ experiences:
     logo: /images/sections/experiences/disupport.jpg
     #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
   positions:
-    - designation: Intern
-      start: Jun 2017
-      end: Aug 2017
+    - designation: Praktyki
+      start: Czerwiec 2017
+      end: Sierpień 2017
       responsibilities:
-        - Product Manager client application.
+        - Projekt aplikacji do zarządzania produktami.

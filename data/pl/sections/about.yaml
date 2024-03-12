@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: O Mnie
   id: about
   enable: true
   weight: 1
@@ -39,8 +39,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-  - title: "My Resume"
-    url: "files/en/mikolaj-bystrzynski.pdf"
+  - title: "Moje CV"
+    url: "files/pl/mikolaj-bystrzynski.pdf"
 
 showreel: "files/video/showreel.mp4"
     
