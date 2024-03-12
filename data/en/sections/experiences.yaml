@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -11,57 +11,97 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Product Madness
+    url: "https://www.productmadness.com"
+    location: Remote / Gdańsk
+    logo: /images/sections/experiences/pm-logo.png
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    #overview: Product Madness is a leading social casino operator.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Unity Developer
+    start: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: Jan 2024
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Developing a mobile project with a team of product owners, designers, developers and artists.
+    - Ensuring highest quality of code by reviewing pull requests, writing unit tests and submitting builds to QA.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Playsoft
+    url: "https://www.linkedin.com/company/playsoft/"
+    location: Remote / Gdańsk
+    logo: /images/sections/experiences/playsoft.png
+    overview: Playsoft was a mobile game developer. Acquired by Product Madness in 2021.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Unity Developer
+    start: Sep 2021
+    end: Dec 2021
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: BeCreo Technologies
+    url: "https://becreo.com"
+    location: Remote / Poznań
+    logo: /images/sections/experiences/becreo.png
+    #overview: BeCREO Technologies Limited is a Polish IT company creating and producing innovative educational materials for schools, kindergartens, and home users.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Gameplay Developer
+    start: Mar 2020
+    end: Aug 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Implemented In-App Purchases for Scottie Go! Labyrinth Mobile.
+    - Implemented On-screen coding and Backend for Scottie Go! Dojo.
+    - Project Maintenance.
+    - Build Server Administration.
+    - Release Management for Google Play, Apple App Store and Windows.
+      
+- company:
+    name: Marching Bits
+    location: Poznań
+    #overview: A small company developing an RTS game.
+  positions:
+    - designation: Game Developer
+      start: Jul 2019 
+      end: Nov 2019
+      responsibilities:
+        - Pathfinding for an Unannounced RTS Project.
+          
+- company:
+    name: Gamedust
+    url: "https://gamedust.co"
+    location: Poznań
+    logo: /images/sections/experiences/gamedust.png
+    #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
+  positions:
+    - designation: Game Developer
+      start: Oct 2017
+      end: Apr 2019
+      responsibilities:
+        - VR gameplay mechanics implementation
+        - Pathfinding system for Spuds Unearthed.
+        - Audio implementation in FMOD.
+        - Custom voiceover & dialogue system for Overflight Singleplayer.
+        - Network systems for Overflight Multiplayer.
+     
+- company:
+    name: Setapp
+    url: "https://setapp.com"
+    location: Poznań
+    logo: /images/sections/experiences/setapp-logo.png
+    overview: Short temporary employment. Moved to Gamedust sister company.
+  positions:
+    - designation: Game Developer
+      start: Sep 2017
+      end: Oct 2017
+          
+- company:
+    name: Di Support PL
+    url: "https://www.linkedin.com/company/pixolocompany/"
+    location: Poznań
+    logo: /images/sections/experiences/disupport.jpg
+    #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
+  positions:
+    - designation: Intern
+      start: Jun 2017
+      end: Aug 2017
+      responsibilities:
+        - Product Manager client application.

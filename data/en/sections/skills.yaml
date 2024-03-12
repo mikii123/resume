@@ -20,13 +20,13 @@ skills:
   
 - name: .NET
   logo: /images/sections/skills/dotnet.png
-  summary: ""
+  summary: "Familiar with newest .NET Framework with experience in Unity, ASP and Windows Forms."
   url: "https://dotnet.microsoft.com/en-us/"
   level: "0"
 
 - name: C#
   logo: /images/sections/skills/csharp.png
-  summary: ""
+  summary: "Expert proficiency in using C# in commercial and hobby projects."
   url: "https://dotnet.microsoft.com/en-us/languages/csharp"
   level: "0"
 
@@ -49,6 +49,16 @@ skills:
   url: "https://www.fmod.com"
   level: "2"
 
+- name: Javascript
+  logo: /images/sections/skills/js.png
+  summary: "Deployed and performed a migration of a commercial backend platform written in JS on Gamesparks. Commercial experience in Braincloud."
+  level: "2"
+  
+- name: Jira
+  logo: /images/sections/skills/jira.png
+  summary: "Worked in projects managed by Jira ticketing system."
+  url: "https://www.atlassian.com/software/jira"
+  
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Little commercial experience."

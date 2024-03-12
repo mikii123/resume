@@ -1,4 +1,9 @@
-﻿.card.lvl0 {
+﻿.card-body {
+  padding-top: 0.7rem !important;
+  padding-bottom: 0.7rem !important;
+}
+
+  .card.lvl0 {
 //  background: #ffedc7 !important;
   .card-head {
     background: #ffedc7 !important;
@@ -50,4 +55,12 @@ html[data-theme='dark'] {
       background: #203b1e !important;
     }
   }
+}
+
+.card-header {
+  padding-bottom: 0.7rem !important;
+}
+
+.custom-section {
+  padding-top: 0.7rem !important;
 }

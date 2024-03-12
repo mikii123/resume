@@ -6,59 +6,95 @@ section:
   weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true
+  hideTitle: false
 
 # filter buttons
 buttons:
 - name: All
   filter: "all"
 - name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
+  filter: "Professional"
 - name: Hobby
-  filter: "hobby"
+  filter: "Hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
-
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
-
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: New Frontier
+  logo: /images/sections/skills/unity.svg
+  header: /images/sections/projects/newfrontier-header.jpg
+  invertLogo: 1
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "2018 - Present"
+  url: "https://youtu.be/5-bpwH5ZcVs?si=9uVKdmWvR3nxhawd"
+  summary: New Frontier is an in-development title for Desktop platforms.
+  tags: [ "Hobby", "Unity" ]
+
+- name: Polywar
+  logo: /images/sections/skills/unity.svg
+  header: /images/sections/projects/polywar-header.png
+  invertLogo: 1
+  role: Owner
+  timeline: "2019 - Present"
+  url: "https://youtu.be/Z3IOAU60ZAQ?si=nP9zvs1MEWopnAk8"
+  summary: Polywar is in a prototype stage title for mobile platforms. Chess-like realtime multiplayer on hexagonal boards. Extended with special player skills and unit abilities.
+  tags: [ "Hobby", "Unity" ]
+
+- name: Cubez
+  logo: /images/sections/skills/unity.svg
+  header: /images/sections/projects/cubez-header.png
+  invertLogo: 1
+  role: Owner
+  timeline: "2019 - Present"
+  url: "https://youtu.be/YDA_RFxYbcE?si=i0bKvJaSBK_Bgt2s"
+  summary: A hyper-casual action game.
+  tags: [ "Hobby", "Unity" ]
+
+- name: LELEngine
+  logo: /images/sections/skills/csharp.png
+  header: /images/sections/projects/lelengine-header.png
+  role: Owner
+  timeline: "2017 - Present"
+  repo: https://github.com/mikii123/LELEngine
+  summary: A custom game engine made using [OpenTK](https://opentk.net).
+  tags: [ "Hobby", "OpenGL", "CSharp" ]
+  
+- name: Scottie Go!
+  role: Developer
+  header: /images/sections/projects/scottiego-header.png
+  logo: /images/sections/projects/scottiego.jpg
+  timeline: "Mar 2020 - Aug 2021"
+  url: "https://scottiego.com/en/scottie-go-home/"
+  summary: Scottie Go! is an innovative hybrid educational game that makes learning fun by combining both the virtual and real-life space.
+  tags: ["Professional", "Unity", "Educational"]
+
+- name: Scottie Go! Dojo
+  role: Developer, Designer
+  header: /images/sections/projects/dojo-header.png
+  logo: /images/sections/projects/dojo.jpg
+  timeline: "Mar 2020 - Aug 2021"
+  url: "https://scottiego.com/en/scottie-go-dojo/"
+  summary: Scottie Go! Dojo is a visual environment and programming language platform for children and young people from 6 to 15 years old.
+  tags: [ "Professional", "Unity", "Educational" ]
+
+- name: Overflight
+  role: Developer
+  header: /images/sections/projects/overflight.png
+  timeline: "Oct 2019 - Dec 2019"
+  url: "https://gamedust.co/overflight"
+  summary: Overflight is an arcade dogfightning experience both for single and multiplayer experiences available on Oculus Gear VR, Oculus Go, Mi VR and Pico Neo.
+  tags: ["Professional", "Unity", "VR"]
+
+- name: Spuds Unearthed
+  role: Developer
+  header: /images/sections/projects/spuds.png
+  timeline: "Oct 2017 - Apr 2019"
+  url: "https://gamedust.co/spuds-unearthed"
+  summary: Jump into Spud’s Universe where mayhem is never-ending! Use your strategic thinking to conquer planets, specialize your crew by assigning them different classes, create frontline by sending vehicles and robots, produce bizarre turrets with cranks, springs, and everything you can imagine!
+  tags: [ "Professional", "Unity", "VR" ]
+
+- name: Resume
+  role: Owner
+  timeline: "2024 - Present"
+  repo: https://github.com/mikii123/resume
+  summary: This webpage. Made in Hugo.
+  tags: [ "Hobby", "Hugo", "HTML", "CSS" ]
