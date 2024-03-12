@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Unity Engine
+  logo: /images/sections/skills/unity.svg
+  summary: "Capable of developing intricate mechanics and game systems. Commercial experience in multiple successful projects."
+  url: "https://unity.com"
+  level: "0"
+  invertLogo: 1
+  
+- name: .NET
+  logo: /images/sections/skills/dotnet.png
+  summary: "Familiar with newest .NET Framework with experience in Unity, ASP and Windows Forms."
+  url: "https://dotnet.microsoft.com/en-us/"
+  level: "0"
+
+- name: C#
+  logo: /images/sections/skills/csharp.png
+  summary: "Expert proficiency in using C# in commercial and hobby projects."
+  url: "https://dotnet.microsoft.com/en-us/languages/csharp"
+  level: "0"
+
+- name: Unity Editor
+  logo: /images/sections/skills/unity.svg
+  summary: "Supported multiple game systems with extendable editor windows and developer UX-oriented functionalities."
+  url: "https://unity.com"
+  level: "1"
+  invertLogo: 1
+  
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Have used Github, Gitlab, Azure Devops and Bitbucket."
+  url: "https://git-scm.com/"
+  level: "1"
+
+- name: Fmod
+  logo: /images/sections/skills/fmod.png
+  summary: "Experience in event design in Fmod Studio and Fmod API usage in Unity."
+  url: "https://www.fmod.com"
+  level: "2"
+
+- name: Javascript
+  logo: /images/sections/skills/js.png
+  summary: "Deployed and performed a migration of a commercial backend platform written in JS on Gamesparks. Commercial experience in Braincloud."
+  level: "2"
+  
+- name: Jira
+  logo: /images/sections/skills/jira.png
+  summary: "Worked in projects managed by Jira ticketing system."
+  url: "https://www.atlassian.com/software/jira"
+  
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Little commercial experience."
