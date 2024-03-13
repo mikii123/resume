@@ -1,0 +1,7 @@
+{{- $options := partial "helpers/get-esbuild-options.html" -}}
+{{- $options = $options | merge (dict "targetPath" "application.js") -}}
+{{- $app := resources.Get "scripts/application.js" -}}
+{{- $bundle := $app | js.Build $options | fingerprint -}}
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "6681d326d2f54d1d973c20ebddfa225e"}'></script><!-- End Cloudflare Web Analytics -->
+<script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>
