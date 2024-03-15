@@ -55,7 +55,7 @@
     <div class="col-sm-6 pt-5 pl-md-4 pl-sm-3 pt-sm-0">
       {{ $randNumber := index (seq 200 | shuffle) 0 }}
       <video class="video-player" id="video-{{ $randNumber }}" playsinline controls>
-        <source src="{{ .showreel | relURL }}" type="{{ default " video/mp4" }}" />
+        <source src="{{ .showreel }}" type="{{ default " video/mp4" }}" />
       </video>
     </div>
   </div>
