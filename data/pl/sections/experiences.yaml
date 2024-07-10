@@ -23,7 +23,7 @@ experiences:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Styczeń 2024
     responsibilities:
-    - Rozwijanie projektu przy współpracy zespołu product ownerów, designerów, deweloperów i artystów.
+    - Rozwijanie projektów przy współpracy zespołu product ownerów, designerów, deweloperów i artystów.
     - Zapewnienie najwyższej jakości kodu poprzez sprawdzanie pull requestów, implementację unit testów i współpracę z QA.
 
 - company:
