@@ -18,7 +18,7 @@ experiences:
     # company overview
     #overview: Product Madness is a leading social casino operator.
   positions:
-  - designation: Unity Developer
+  - designation: Senior Game Developer
     start: Grudzień 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Styczeń 2024
@@ -33,7 +33,7 @@ experiences:
     logo: /images/sections/experiences/playsoft.png
     overview: Playsoft był developerem gier mobilnych. Kupiony przez Product Madness w 2021r.
   positions:
-  - designation: Unity Developer
+  - designation: Senior Game Developer
     start: Wrzesień 2021
     end: Grudzień 2021
 
@@ -44,7 +44,7 @@ experiences:
     logo: /images/sections/experiences/becreo.png
     #overview: BeCREO Technologies Limited is a Polish IT company creating and producing innovative educational materials for schools, kindergartens, and home users.
   positions:
-  - designation: Gameplay Developer
+  - designation: Lead Game Developer
     start: Marzec 2020
     end: Sierpień 2021
     responsibilities:
@@ -59,7 +59,7 @@ experiences:
     location: Poznań
     #overview: A small company developing an RTS game.
   positions:
-    - designation: Game Developer
+    - designation: Unity Game Developer
       start: Lipiec 2019 
       end: Listopad 2019
       responsibilities:
@@ -72,7 +72,7 @@ experiences:
     logo: /images/sections/experiences/gamedust.png
     #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
   positions:
-    - designation: Game Developer
+    - designation: Unity Game Developer
       start: Październik 2017
       end: Kwiecień 2019
       responsibilities:
@@ -89,7 +89,7 @@ experiences:
     logo: /images/sections/experiences/setapp-logo.png
     overview: Zatrudnienie tymczasowe. Zmiana zaspołu na Gamedust.
   positions:
-    - designation: Game Developer
+    - designation: Junior Game Developer
       start: Wrzesień 2017
       end: Październik 2017
           
