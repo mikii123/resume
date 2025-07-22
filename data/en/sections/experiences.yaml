@@ -10,98 +10,116 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: Product Madness
-    url: "https://www.productmadness.com"
-    location: Remote / Gdańsk
-    logo: /images/sections/experiences/pm-logo.png
-    # company overview
-    #overview: Product Madness is a leading social casino operator.
-  positions:
-  - designation: Senior Game Developer
-    start: Dec 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Jan 2024
-    responsibilities:
-    - Developing multiple mobile projects with a team of product owners, designers, developers and artists.
-    - Ensuring highest quality of code by reviewing pull requests, writing unit tests and submitting builds to QA.
+  - company:
+      name: Yellow House Education
+      url: "https://sklep.yellowhouseenglish.com"
+      location: Remote / Warszawa
+      logo: /images/sections/experiences/yhe-logo.png
+      # company overview
+      overview: Affiliated with BeCreo Technologies
+    positions:
+      - designation: Game Developer / Devops
+        start: Feb 2025
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Jul 2025
+        responsibilities:
+          - Companion apps implementation for Android and iOS.
+          - Project Maintenance.
+          - Build Server Administration.
+          - Release Management for Google Play and Apple App Store.
 
-- company:
-    name: Playsoft
-    url: "https://www.linkedin.com/company/playsoft/"
-    location: Remote / Gdańsk
-    logo: /images/sections/experiences/playsoft.png
-    overview: Playsoft was a mobile game developer. Acquired by Product Madness in 2021.
-  positions:
-  - designation: Senior Game Developer
-    start: Sep 2021
-    end: Dec 2021
+  - company:
+      name: Product Madness
+      url: "https://www.productmadness.com"
+      location: Remote / Gdańsk
+      logo: /images/sections/experiences/pm-logo.png
+      # company overview
+      #overview: Product Madness is a leading social casino operator.
+    positions:
+      - designation: Senior Game Developer
+        start: Dec 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Jan 2024
+        responsibilities:
+          - Developing multiple mobile projects with a team of product owners, designers, developers and artists.
+          - Ensuring highest quality of code by reviewing pull requests, writing unit tests and submitting builds to QA.
 
-- company:
-    name: BeCreo Technologies
-    url: "https://becreo.com"
-    location: Remote / Poznań
-    logo: /images/sections/experiences/becreo.png
-    #overview: BeCREO Technologies Limited is a Polish IT company creating and producing innovative educational materials for schools, kindergartens, and home users.
-  positions:
-  - designation: Lead Game Developer
-    start: Mar 2020
-    end: Aug 2021
-    responsibilities:
-    - Implemented In-App Purchases for Scottie Go! Labyrinth Mobile.
-    - Implemented On-screen coding and Backend platform for Scottie Go! Dojo.
-    - Project Maintenance.
-    - Build Server Administration.
-    - Release Management for Google Play, Apple App Store and Windows.
-      
-- company:
-    name: Marching Bits
-    location: Poznań
-    #overview: A small company developing an RTS game.
-  positions:
-    - designation: Unity Game Developer
-      start: Jul 2019 
-      end: Nov 2019
-      responsibilities:
-        - Pathfinding for an unannounced RTS project.
-          
-- company:
-    name: Gamedust
-    url: "https://gamedust.co"
-    location: Poznań
-    logo: /images/sections/experiences/gamedust.png
-    #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
-  positions:
-    - designation: Unity Game Developer
-      start: Oct 2017
-      end: Apr 2019
-      responsibilities:
-        - VR gameplay mechanics implementation
-        - Pathfinding system for Spuds Unearthed.
-        - Audio implementation in FMOD.
-        - Custom voiceover & dialogue system for Overflight Singleplayer.
-        - Network systems for Overflight Multiplayer.
-     
-- company:
-    name: Setapp
-    url: "https://setapp.com"
-    location: Poznań
-    logo: /images/sections/experiences/setapp-logo.png
-    overview: Short temporary employment. Moved to the sister company - Gamedust.
-  positions:
-    - designation: Junior Game Developer
-      start: Sep 2017
-      end: Oct 2017
-          
-- company:
-    name: Di Support PL
-    url: "https://www.linkedin.com/company/pixolocompany/"
-    location: Poznań
-    logo: /images/sections/experiences/disupport.jpg
-    #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
-  positions:
-    - designation: Intern
-      start: Jun 2017
-      end: Aug 2017
-      responsibilities:
-        - Product Manager client application.
+  - company:
+      name: Playsoft
+      url: "https://www.linkedin.com/company/playsoft/"
+      location: Remote / Gdańsk
+      logo: /images/sections/experiences/playsoft.png
+      overview: Playsoft was a mobile game developer. Acquired by Product Madness in 2021.
+    positions:
+      - designation: Senior Game Developer
+        start: Sep 2021
+        end: Dec 2021
+
+  - company:
+      name: BeCreo Technologies
+      url: "https://becreo.com"
+      location: Remote / Poznań
+      logo: /images/sections/experiences/becreo.png
+      #overview: BeCREO Technologies Limited is a Polish IT company creating and producing innovative educational materials for schools, kindergartens, and home users.
+    positions:
+      - designation: Lead Game Developer
+        start: Mar 2020
+        end: Aug 2021
+        responsibilities:
+          - Implemented In-App Purchases for Scottie Go! Labyrinth Mobile.
+          - Implemented On-screen coding and Backend platform for Scottie Go! Dojo.
+          - Project Maintenance.
+          - Build Server Administration.
+          - Release Management for Google Play, Apple App Store and Windows.
+
+  - company:
+      name: Marching Bits
+      location: Poznań
+      #overview: A small company developing an RTS game.
+    positions:
+      - designation: Unity Game Developer
+        start: Jul 2019
+        end: Nov 2019
+        responsibilities:
+          - Pathfinding for an unannounced RTS project.
+
+  - company:
+      name: Gamedust
+      url: "https://gamedust.co"
+      location: Poznań
+      logo: /images/sections/experiences/gamedust.png
+      #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
+    positions:
+      - designation: Unity Game Developer
+        start: Oct 2017
+        end: Apr 2019
+        responsibilities:
+          - VR gameplay mechanics implementation
+          - Pathfinding system for Spuds Unearthed.
+          - Audio implementation in FMOD.
+          - Custom voiceover & dialogue system for Overflight Singleplayer.
+          - Network systems for Overflight Multiplayer.
+
+  - company:
+      name: Setapp
+      url: "https://setapp.com"
+      location: Poznań
+      logo: /images/sections/experiences/setapp-logo.png
+      overview: Short temporary employment. Moved to the sister company - Gamedust.
+    positions:
+      - designation: Junior Game Developer
+        start: Sep 2017
+        end: Oct 2017
+
+  - company:
+      name: Di Support PL
+      url: "https://www.linkedin.com/company/pixolocompany/"
+      location: Poznań
+      logo: /images/sections/experiences/disupport.jpg
+      #overview: Designing new, dedicated gameplay mechanics to revolutionize VR/AR/MR gaming industry and unleashing it's full potential.
+    positions:
+      - designation: Intern
+        start: Jun 2017
+        end: Aug 2017
+        responsibilities:
+          - Product Manager client application.
