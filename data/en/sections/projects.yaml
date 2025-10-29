@@ -35,8 +35,8 @@ projects:
   invertLogo: 1
   role: Owner
   timeline: "2019 - Present"
-  url: "https://youtu.be/Z3IOAU60ZAQ?si=nP9zvs1MEWopnAk8"
-  summary: Polywar is in a prototype stage title for mobile platforms. Chess-like realtime multiplayer on hexagonal boards. Extended with special player skills and unit abilities.
+  url: "https://dev.azure.com/miki123by/Polywar%20RTS"
+  summary: Polywar is a barebones RTS sample architecture, with lockstep synchronization, deterministic physics and networking.
   tags: [ "Hobby", "Unity" ]
 
 - name: Cubez
