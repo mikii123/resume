@@ -51,6 +51,7 @@ projects:
 
 - name: Unity Packages
   logo: /images/sections/skills/unity.svg
+  invertLogo: 1
   role: Owner
   timeline: "2022 - Present"
   repo: https://dev.azure.com/miki123by/Unity%20Packages
