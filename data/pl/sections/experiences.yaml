@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: MAE Content
+      url: "https://mae.pl"
+      location: Hybrid / Warszawa
+      logo: /images/sections/experiences/logo-mae.png
+      # company overview
+      overview: Nowoczesna pracownia projektowo-realizacyjna oferująca usługi w obszarze technik ekspozycyjnych i multimedialnych dla podmiotów prywatnych i publicznych, w tym muzeów i centrów nauki. 
+    positions:
+      - designation: Senior Unity / XR Developer
+        start: Mar 2026
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        responsibilities:
+          - Edytor doświadczeń XR.
+          - Odtwarzacz doświadczeń XR dostarczający stworzony kontent do użytkowników końcowych.
+
+  - company:
       name: Yellow House Education
       url: "https://sklep.yellowhouseenglish.com"
       location: Zdalnie / Warszawa

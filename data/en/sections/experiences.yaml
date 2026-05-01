@@ -11,11 +11,24 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: MAE Content
+      url: "https://mae.pl"
+      location: Hybrid / Warszawa
+      logo: /images/sections/experiences/logo-mae.png
+      overview: A modern project design and implementation studio which offers services in exposition and multimedia techniques for private clients and the public sector, including museums and science centres.
+    positions:
+      - designation: Senior Unity / XR Developer
+        start: Mar 2026
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        responsibilities:
+          - Development of an XR experience authoring editor.
+          - Developing the complementary XR runtime player that delivers authored content to end users.
+
+  - company:
       name: Yellow House Education
       url: "https://sklep.yellowhouseenglish.com"
       location: Remote / Warszawa
       logo: /images/sections/experiences/yhe-logo.png
-      # company overview
       overview: Affiliated with BeCreo Technologies
     positions:
       - designation: Game Developer / Devops
@@ -33,7 +46,6 @@ experiences:
       url: "https://www.productmadness.com"
       location: Remote / Gdańsk
       logo: /images/sections/experiences/pm-logo.png
-      # company overview
       #overview: Product Madness is a leading social casino operator.
     positions:
       - designation: Senior Game Developer
